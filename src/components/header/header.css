@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFFFFF;
+    padding: 2  5px;
+    align-items: center;
+    border-bottom: 1px solid grey;
+  }
+  h1{
+    font-size: 20px ;
+    color: #231F20;
+  }
+  
+  .b { 
+    /* padding: 0 10px 0 0; */
+    border-radius: 10px;
+    width: 50px;
+    height: 26px;
+    background-color: rgb(0, 0, 0);
+    color:whitesmoke;
+    font-size: 11px;
+
+  }
+  .topicons{display: flex;}
+  .huse{
+    height: 2.5vh;
+    width: 2vw;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  .insta{height: 5vh;
+    width: 13vw;}
+  

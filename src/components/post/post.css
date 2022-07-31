@@ -1,0 +1,118 @@
+.post{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 90vh;
+}
+.postpage{
+    width: 29.7vw;
+    height: 48vh;
+    border: 1px;
+    border-radius: 10px;
+    background-color: white;
+   
+}
+.ptop{
+    display: flex;
+    justify-content: space-between;
+}
+.imgicon{
+    margin-top: 14px;
+    margin-left: 1ex;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+h2{
+    margin-top: 18px;
+    margin-right: 50%;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+span{
+    margin-top: 12px;
+
+    margin-right: 5%;
+}
+.pimg{
+    width: 29.5vw;
+    height: 25vh;
+    background-image: url(../post/react.jpg);
+    background-position:center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    
+}
+.lik{
+    display: flex;
+    justify-content: left;
+}
+.pbottom{
+     
+    width: 27vw;
+   /* height: 20vh; */
+    display:flex;
+    justify-content: space-between;
+}
+.im{
+    height: 2vh;
+    width: 1vw;
+}
+.imsave{
+    height: 2vh;
+    width: 1vw;
+}
+.ahad{
+    display: flex;
+
+}
+
+.dot{
+    width: 24px;
+    height: 22px;
+    background: white;
+    border: none;
+    padding-right: 0vh;
+    padding-left: 0vh;
+
+}
+.do{
+    height: 2vh;
+
+}
+
+.lik{
+    background-color: white;
+    border: none;
+} 
+
+.p{
+    padding-left: 7px;
+}
+.disp{
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+}
+
+
+.h3{font-size: 14px;
+    font-weight: bold;
+
+}
+.comment{
+    width: 22vw;
+    height: 4vh;
+    background-color: none;
+    border: none;
+}
+.submit{
+    width: 4vw;
+    border: none;
+    background-color: white;
+    color: rgb(7, 137, 250);
+    margin-left: 22px;
+}
